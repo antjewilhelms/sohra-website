@@ -47,7 +47,7 @@
     <div class="left">
         <a href="https://www.dsh-sohra.de">
             <div class="content">
-                <img src="Logo_Dreiseithof_Sohra_transparent.tif" alt="Dreiseithof Sohra Logo" class="logo">
+                <img src="https://raw.githubusercontent.com/antjewilhelms/sohra-website/main/Logo_Dreiseithof_Sohra.jpg" alt="Dreiseithof Sohra" class="logo">
                 <h1>Dreiseithof Sohra</h1>
                 <p>Ihr Ziel für entspannte Ferien, idyllisch-romantische Hochzeiten oder ausgelassene Partys</p>
             </div>
@@ -56,8 +56,8 @@
     <div class="right">
         <a href="https://www.fruechte-sohra.de">
             <div class="content">
-                <img src="Logo Früchteverarbeitung.png" alt="Früchteverarbeitung Sohra Logo" class="logo">
-                <img src="logo sohraer.png" alt="Sohrarer Logo" class="logo">
+<img src="https://raw.githubusercontent.com/antjewilhelms/sohra-website/main/Logo Früchteverarbeitung.png" alt="Früchteverarbeitung Sohra Logo" class="logo">
+<img src="https://raw.githubusercontent.com/antjewilhelms/sohra-website/main/logo sohraer.png" alt="Sohrarer Logo" class="logo">
                 <h1>Früchteverarbeitung Sohra GmbH</h1>
                 <p>Ihr Partner für biologisch angebaute Früchte und Bio-Produkte vom Feinsten</p>
             </div>
