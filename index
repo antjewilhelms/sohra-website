@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dreiseithof Sohra & Früchteverarbeitung Sohra GmbH</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            display: flex;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        .left, .right {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            padding: 20px;
+        }
+        .left {
+            background-color: #90EE90; /* Hellgrün */
+        }
+        .right {
+            background-color: #FF6347; /* Hellrot */
+        }
+        .content {
+            max-width: 80%;
+        }
+        .logo {
+            max-width: 200px;
+            margin-bottom: 20px;
+        }
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+    </style>
+</head>
+<body>
+    <div class="left">
+        <a href="https://www.dsh-sohra.de">
+            <div class="content">
+                <img src="/mnt/data/Logo_Dreiseithof_Sohra_für Klischee.jpg" alt="Dreiseithof Sohra Logo" class="logo">
+                <h1>Dreiseithof Sohra</h1>
+                <p>Ihr Ziel für entspannte Ferien, idyllisch-romantische Hochzeiten oder ausgelassene Partys</p>
+            </div>
+        </a>
+    </div>
+    <div class="right">
+        <a href="https://www.fruechte-sohra.de">
+            <div class="content">
+                <img src="/mnt/data/Logo Früchteverarbeitung.png" alt="Früchteverarbeitung Sohra Logo" class="logo">
+                <img src="/mnt/data/Logo Sohrarer.png" alt="Sohrarer Logo" class="logo">
+                <h1>Früchteverarbeitung Sohra GmbH</h1>
+                <p>Ihr Partner für biologisch angebaute Früchte und Bio-Produkte vom Feinsten</p>
+            </div>
+        </a>
+    </div>
+</body>
+</html>
